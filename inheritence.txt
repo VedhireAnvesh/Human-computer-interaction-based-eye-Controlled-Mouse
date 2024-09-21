@@ -1,0 +1,8 @@
+inheritence 
+A,B are two class and b is the child class of the parent A class A method can be accesed by creating a object of class b and by calling the method we can acess the methods of both a ,b class by creating one object
+
+1.mutltileavel;
+A,B,C are class and c is the sub child of b and b is the child the parent classA of the a this type of inheritence is called mutilleavel inheritence in these c object is created and the methods are accesed form the both class A,B
+2.multiple inheritence;
+A,B,C are three class and c is the child class of the both A,B and we can create a object in the of c and can acess both methods in the parents class of A,B and if there a same method name in both the parents class then we have to mention the order to find the method c(A,B) now the object of the class C will go to frt C class and sreach the method and next it will go to A and then on B 
+3. 
